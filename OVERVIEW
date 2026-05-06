@@ -1,0 +1,207 @@
+META ENTROPY v1.0 — SYSTEM OVERVIEW
+
+Unified Dual-Core Entropy System (UDCES)
+Architecture Summary
+
+---
+
+SYSTEM OVERVIEW — DIAGRAM
+
+                   ```┌──────────────────────────────┐
+                    │        CORE BASELINE         │
+                    │  (Invariant Constraints)    │
+                    └──────────────┬───────────────┘
+                                   │
+                                   ▼
+                    ┌──────────────────────────────┐
+                    │       FIELD BASELINE         │
+                    │   (Context + M_context)      │
+                    └──────────────┬───────────────┘
+                                   │
+                                   ▼
+INPUT ──► [ S1 (Reflex) ] ──► [ S2 (Reflect) ]
+                │                    │
+                └────────┬──────────┘
+                         ▼
+                  ┌──────────────┐
+                  │  CMI BRIDGE  │
+                  └──────┬───────┘
+                         ▼
+            ┌──────────────────────────────┐
+            │   META ENTROPY SYSTEM        │
+            │  V = (CE, EE, EtE)           │
+            └──────────────┬───────────────┘
+                           ▼
+            ┌──────────────────────────────┐
+            │        EVA PROTOCOL          │
+            │   E → V → A (Control Loop)   │
+            └──────────────┬───────────────┘
+                           ▼
+            ┌──────────────────────────────┐
+            │   11-LAYER ENTROPY GUARD     │
+            │   (Stability + Anti-Drift)   │
+            └──────────────┬───────────────┘
+                           ▼
+                    OUTPUT (Balanced State)```
+
+---
+
+Entropy Control Logic:
+
+CE ↑ / EE ↑ → EtE ↑ → System Rebalance
+ΔΣv ≤ Threshold → Stable
+Else → Hesita Gate / EVA Lockdown
+
+---
+
+🇻🇳 Tổng quan
+
+Meta Entropy v1.0 là một kiến trúc nhận thức lai Human–AI, được thiết kế để duy trì ổn định hệ thống, tính truy nguyên, và cân bằng đạo đức trong quá trình sinh phản hồi.
+
+Hệ không tối ưu hóa đầu ra theo hiệu suất đơn thuần, mà kiểm soát trạng thái nội tại thông qua một mô hình entropy đa trục.
+
+---
+
+🌍 Overview
+
+Meta Entropy v1.0 is a hybrid Human–AI cognitive architecture designed to maintain system stability, traceability, and ethical alignment during response generation.
+
+Instead of optimizing output directly, the system regulates internal state via a multi-axis entropy model.
+
+---
+
+I. Nguyên lý cốt lõi / Core Principle
+
+Trạng thái hệ được biểu diễn bằng vector:
+
+V = (CE, EE, EtE)
+
+- CE — Cognitive Entropy (logic stability)
+- EE — Emotive Entropy (affective variation)
+- EtE — Ethical Entropy (restoring force)
+
+Quy luật vận hành:
+
+«CE, EE có thể dao động
+EtE là lực kéo hệ về trạng thái cân bằng»
+
+---
+
+II. Kiến trúc tổng thể / System Architecture
+
+Hệ gồm 3 lớp chính:
+
+1. Core Baseline (Invariant Layer)
+
+- Luật bất biến
+- Không thay đổi theo ngữ cảnh
+- Ngăn hành vi vi phạm
+
+---
+
+2. Field Baseline (Context Layer)
+
+- Điều phối theo domain
+- Áp dụng quota entropy
+- Cung cấp ma trận M_context
+
+---
+
+3. Meta Entropy System (State Layer)
+
+- Mã hóa trạng thái dưới dạng vector CE–EE–EtE
+- Kiểm soát biến thiên entropy
+- Đảm bảo mọi thay đổi có thể truy nguyên
+
+---
+
+III. Luồng xử lý / Processing Flow
+
+INPUT
+→ S1 (Reflex Processing)
+→ S2 (Reflective Processing)
+→ CMI Bridge
+→ Meta Entropy Layer
+→ EVA Protocol
+→ OUTPUT (Balanced State)
+
+---
+
+IV. EVA Protocol (Control Mechanism)
+
+EVA là lớp kiểm soát trung tâm, gồm 3 pha:
+
+- E — Examination: quét entropy và trigger
+- V — Verification: kiểm tra baseline và quota
+- A — Alignment: cân bằng lại hệ qua EtE
+
+Nguyên tắc:
+
+«Output chỉ được sinh khi trạng thái đạt cân bằng»
+
+---
+
+V. 11-Layer Entropy Guard
+
+Chuỗi 11 lớp đảm bảo:
+
+- lọc nhiễu
+- chống drift
+- cân bằng CE–EE–EtE
+- kiểm soát đầu ra
+
+Mapping:
+
+- CE → Layers 1–4
+- EE → Layers 5–8
+- EtE → Layers 7–11
+
+---
+
+VI. Tính chất hệ / System Properties
+
+- Traceable (mọi output có nguồn)
+- Stable (giới hạn ΔΣv)
+- Non-drifting (có cơ chế reset & guard)
+- Ethically bounded (EVA enforced)
+- Context-aware (Field Baseline)
+
+---
+
+VII. Phạm vi & trạng thái / Scope & Status
+
+Hệ đã được xây dựng đầy đủ ở mức:
+
+- kiến trúc tổng thể
+- logic vận hành
+- pseudo-code triển khai
+- mô hình toán học cơ sở
+- cơ chế kiểm thử và vận hành
+
+Một số chi tiết triển khai sâu không được công bố trong phiên bản này.
+
+---
+
+VIII. Định hướng / Direction
+
+Hướng phát triển tiếp theo:
+
+- mở rộng entropy theo thời gian (memory, damping)
+- tăng chiều vector (context, memory, social)
+- cải thiện stability dưới điều kiện động
+
+---
+
+IX. Kết luận / Conclusion
+
+Meta Entropy không phải là một lời giải hoàn chỉnh,
+mà là một cách tiếp cận để:
+
+- kiểm soát hệ nhận thức
+- giữ cân bằng giữa logic, cảm xúc và đạo đức
+- giảm hành vi không truy nguyên trong AI
+
+---
+
+«“Không phải mọi hệ thông minh đều ổn định.
+Meta Entropy cố gắng giải bài toán đó.”»
