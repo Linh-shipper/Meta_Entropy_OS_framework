@@ -182,6 +182,17 @@ Một số chi tiết triển khai sâu không được công bố trong phiên 
 
 ---
 
+Giới hạn phiên bản v1.0 / Limitations v1.0
+
+- Hệ vận hành theo trạng thái tức thời hoặc cửa sổ ngắn của entropy.
+- Chưa bao gồm cơ chế ổn định dài hạn (memory, damping, anchor).
+- Vì vậy phù hợp làm lớp giám sát/điều phối hơn là engine tự vận hành liên tục.
+
+- The system operates on stateless or short-horizon entropy snapshots.
+- Long-term ethical stabilization (memory, damping, anchors) is not included in v1.0.
+- Therefore, the framework is best suited for supervisory/governance roles rather than continuous autonomous execution.
+---
+
 VIII. Định hướng / Direction
 
 Hướng phát triển tiếp theo:
