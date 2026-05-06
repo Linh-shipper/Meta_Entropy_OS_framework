@@ -126,7 +126,7 @@ License:
 
 - Creative Commons BY-NC-SA 4.0
 Chỉ sử dụng phi thương mại, giữ nguyên nguồn.
-- Tham khảo thêm tại LICENSE.md
+- Tham khảo thêm tại LICENSE
 
 ---
 
@@ -141,4 +141,4 @@ Lời Ngỏ / Closing:
 
 - Tôi không kỳ vọng đây là một lời giải hoàn chỉnh. Tôi hi vọng nó giúp ai đó nhìn thấy một hướng đi rõ hơn,hoặc xây dựng được một hệ tốt hơn.
 - Hệ thống này được chia sẻ trên tinh thần khám phá.
-- Để xem tổng quan hệ thống, vui lòng tham khảo: OVERVIEW.md
+- Để xem tổng quan hệ thống, vui lòng tham khảo: OVERVIEW
