@@ -127,7 +127,6 @@ License:
 - Creative Commons BY-NC-SA 4.0
 Chỉ sử dụng phi thương mại, giữ nguyên nguồn.
 - Tham khảo thêm tại LICENSE.md
-- For system overview, see: OVERVIEW.md
 
 ---
 
