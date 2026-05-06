@@ -5,9 +5,9 @@ Architecture Summary
 
 ---
 
-### SYSTEM OVERVIEW - DIAGRAM
+SYSTEM OVERVIEW — DIAGRAM
 
-```text                 ┌──────────────────────────────┐
+                    ┌──────────────────────────────┐
                     │        CORE BASELINE         │
                     │   (Invariant Constraints)    │
                     └──────────────┬───────────────┘
@@ -43,7 +43,6 @@ INPUT ──► [ S1 (Reflex) ] ──► [ S2 (Reflect) ]
             └──────────────┬───────────────┘
                            ▼
                     OUTPUT (Balanced State)
-```
 
 ---
 
