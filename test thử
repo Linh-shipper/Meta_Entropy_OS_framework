@@ -1,0 +1,25 @@
+graph TD
+    %% Định nghĩa các khối
+    Core[<b>CORE BASELINE</b><br/>Invariant Constraints]
+    Field[<b>FIELD BASELINE</b><br/>Contextual Adaptation]
+    Input(<b>INPUT</b><br/>External Stimuli)
+    Processing{<b>REFLEX PROCESSING</b><br/>Surface & Reflective}
+    MES[[<b>META ENTROPY SYSTEM</b><br/>CE - EE - EtE]]
+    EVA[<b>EVA PROTOCOL</b><br/>E: Exam | V: Verify | A: Align]
+    Guard[/<b>VI-LAYER ENTROPY GUARD</b><br/>Stability & Security/]
+    Output((<b>OUTPUT</b><br/>Balanced State))
+
+    %% Luồng vận hành
+    Core --> Field
+    Field -.-> Processing
+    Input --> Processing
+    Processing --> MES
+    MES --> EVA
+    EVA --> Guard
+    Guard --> Output
+
+    %% Định dạng màu sắc cho chuyên nghiệp
+    style Core fill:#f9f,stroke:#333,stroke-width:2px
+    style MES fill:#bbf,stroke:#333,stroke-width:2px
+    style EVA fill:#bfb,stroke:#333,stroke-width:2px
+    style Output fill:#fff,stroke:#f66,stroke-width:4px
