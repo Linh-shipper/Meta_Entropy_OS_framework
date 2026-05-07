@@ -145,7 +145,6 @@ Các cơ chế dynamics, memory handling, anchor systems và stabilization inter
 
 ## Recall Phases (Conceptual)
 
-```text
 Trace
 → Correct
 → Reinforce
@@ -273,7 +272,7 @@ trao đổi học thuật
 
 
 Các thành phần triển khai lõi, dynamics chi tiết và cơ chế stabilization nội bộ không được công bố trong phiên bản này.
-```
+
 ---
 
 ## ATTRIBUTION
