@@ -283,5 +283,5 @@ Meta Entropy Framework  was developed by Nguyễn Hoàng Linh in 2025 and offici
 
 ## LICENSE
 
-"Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International© 2026 Nguyễn Hoàng LinhThis work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
+"Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International© 2026 Nguyễn Hoàng Linh. This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
 https://creativecommons.org/licenses/by-nc-sa/4.0/"
