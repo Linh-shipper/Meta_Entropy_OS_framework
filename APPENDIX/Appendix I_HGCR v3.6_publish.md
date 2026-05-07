@@ -152,7 +152,7 @@ Trace
 
 ---
 
-VII. ARCHITECTURE OVERVIEW
+# VII. ARCHITECTURE OVERVIEW
 
 INPUT STREAM
       ↓
@@ -171,7 +171,7 @@ OUTPUT
 
 ---
 
-VIII. RESEARCH POSITIONING
+# VIII. RESEARCH POSITIONING
 
 HGCR hiện được xem như:
 
@@ -187,7 +187,7 @@ Framework này chưa được định hướng triển khai production.
 
 ---
 
-IX. GIỚI HẠN HIỆN TẠI
+# IX. GIỚI HẠN HIỆN TẠI
 
 Phiên bản publish hiện tại chưa bao gồm:
 
@@ -209,7 +209,7 @@ Các phần trên vẫn đang trong giai đoạn nghiên cứu.
 
 ---
 
-X. ĐỊNH HƯỚNG TƯƠNG LAI
+# X. ĐỊNH HƯỚNG TƯƠNG LAI
 
 Các hướng nghiên cứu tiếp theo:
 
@@ -240,7 +240,7 @@ không triệt tiêu khả năng thích nghi
 
 ---
 
-XI. KẾT LUẬN
+# XI. KẾT LUẬN
 
 HGCR v3.6 là một framework định hướng nghiên cứu cho bài toán:
 
@@ -260,7 +260,7 @@ Framework này không nhằm thay thế tư duy con người, không nhằm ki�
 
 ---
 
-RESEARCH NOTE
+## RESEARCH NOTE
 
 Phiên bản công bố công khai đã được giản lược nhằm phục vụ mục đích:
 
