@@ -99,7 +99,7 @@ Hệ vận hành trên 3 trục entropy:
 
 - CE (Cognitive Entropy) — ổn định logic
 - EE (Emotive Entropy) — điều tiết cảm xúc
-- EtE (Ethical Entropy) — lực cân bằng trung tâm
+- EtE (Ethical Entropy) — lực hồi phục và cân bằng đạo đức
 
 Mục tiêu:
 
@@ -117,31 +117,75 @@ Mục tiêu của repo / Purpose
 
 ---
 
-## 📈 Roadmap & Development Path
+📈 Roadmap & Development Path / Lộ Trình Phát Triển
 
-**v1.0 (Current)** — Governance & Supervisory Control
-- Focus: Ethical oversight, short-horizon stability, traceability
-- Strength: Deterministic, auditable, principle-based
-- Limitation: Stateless/short-window operation
+### v1.0 (Current) — Governance & Supervisory Control  
+### v1.0 (Hiện tại) — Lớp quản trị & giám sát
 
-**v2.0 (Next Phase)** — Long-term Stability Enhancement
-- Focus: Memory mechanisms, damping, temporal consistency
-- Goal: Upgrade from supervisory → semi-autonomous capability
-- See: ROADMAP_v2.0.md for details
+Focus / Trọng tâm:
+- Ethical oversight  
+- Short-horizon stability  
+- Traceability  
 
-**v3.0+ (Vision)** — Multi-dimensional Tensor Expansion
-- Focus: Context, memory, and social interaction dimensions
-- Direction: 3D → 6D tensor entropy modeling
-- Timeline: Long-term research direction
+Strength / Điểm mạnh:
+- Deterministic  
+- Auditable  
+- Principle-based  
 
-For detailed development roadmap, see: **ROADMAP_v2.0.md**
+Limitations / Giới hạn:
+- Stateless / short-window operation  
+- Chưa phù hợp cho vận hành tự trị dài hạn  
+
+---
+
+### v2.0 (Next Phase) — Long-term Stability Enhancement  
+### v2.0 (Giai đoạn tiếp theo) — Tăng cường ổn định dài hạn
+
+Focus / Trọng tâm:
+- Memory mechanisms  
+- Damping & stabilization  
+- Temporal consistency  
+
+Goal / Mục tiêu:
+- Nâng cấp từ supervisory system → semi-autonomous capability  
+- Giảm drift theo thời gian và tăng tính liên tục của hệ  
+
+---
+
+### Exploratory Research Direction (Long-term)  
+### Hướng nghiên cứu dài hạn (mang tính khám phá)
+
+Current research notes also explore the possibility of extending the entropy-state model beyond the initial 3D structure (CE–EE–EtE).
+
+Hệ hiện tại cũng có các ghi chú nghiên cứu về khả năng mở rộng mô hình entropy-state vượt khỏi cấu trúc 3D ban đầu (CE–EE–EtE).
+
+Potential future directions may include:
+- contextual dynamics,
+- memory-dependent stabilization,
+- social interaction modeling,
+- constrained tensor-state extensions.
+
+Các hướng mở rộng tiềm năng bao gồm:
+- động lực học theo ngữ cảnh,
+- cơ chế ổn định phụ thuộc bộ nhớ,
+- mô hình hóa tương tác xã hội,
+- mở rộng tensor-state có ràng buộc.
+
+These directions remain exploratory and are not part of the current deployable architecture.
+
+Các hướng này hiện chỉ ở mức nghiên cứu định hướng và chưa thuộc kiến trúc triển khai hiện tại.
+
+---
+
+For detailed development roadmap, see: `ROADMAP_v2.0.md`  
+Để xem chi tiết lộ trình phát triển, vui lòng tham khảo: `ROADMAP_v2.0.md`
 
 ---
 
 Giới hạn / Limitations:
 
 - Không phải hệ production
-- Không phải framework hoàn chỉnh
+- Chưa phải framework hoàn chỉnh cho triển khai production-scale
 - Không nhằm mục tiêu thương mại
 - Một phần chi tiết được giữ lại có chủ đích
 - **v1.0 không thích hợp cho tự vận hành liên tục dài hạn** (see Positioning section above)
@@ -191,4 +235,3 @@ Lời Ngỏ / Closing:
 - Tôi không kỳ vọng đây là một lời giải hoàn chỉnh. Tôi hi vọng nó giúp ai đó nhìn thấy một hướng đi rõ hơn, hoặc xây dựng được một hệ tốt hơn.
 - Hệ thống này được chia sẻ trên tinh thần khám phá.
 - Để xem tổng quan hệ thống, vui lòng tham khảo: OVERVIEW
-- Để xem lộ trình phát triển, vui lòng tham khảo: ROADMAP_v2.0.md
