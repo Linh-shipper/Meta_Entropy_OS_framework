@@ -273,17 +273,3 @@ trao đổi học thuật
 
 
 Các thành phần triển khai lõi, dynamics chi tiết và cơ chế stabilization nội bộ không được công bố trong phiên bản này.
-
-
----
-
-## ATTRIBUTION
-
-Meta Entropy Framework  was developed by Nguyễn Hoàng Linh in 2025 and officially released in 2026.
-
----
-
-## LICENSE
-
-"Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International© 2026 Nguyễn Hoàng LinhThis work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License.
-https://creativecommons.org/licenses/by-nc-sa/4.0/"
