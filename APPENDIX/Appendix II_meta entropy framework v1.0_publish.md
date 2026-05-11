@@ -142,7 +142,7 @@ OUTPUT
 
 ---
 
-# APPENDIX I-B — EVA PROTOCOL v1.0 (Ethical Vital Axis)
+# APPENDIX II-B — EVA PROTOCOL v1.0 (Ethical Vital Axis)
 
 ---
 
